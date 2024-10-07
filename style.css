@@ -1,0 +1,90 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+header{
+	background-color:#C1E1C1;
+	color: white;
+	padding: 20px;
+}
+
+body{
+	text-align: center;
+}
+
+img{
+	border: 5px solid #ecf0f1;
+  margin-left: 10px;
+  filter: grayscale(100%);
+}
+
+h1{
+	color:#198754;
+	font-size: 60px;
+	font-family: "Archivo Black", sans-serif;
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+	color: #198754;
+}
+
+h3{
+	font-size: 20px;
+}
+
+br{
+	padding: 3px;
+}
+
+
+ul{
+  list-style-position: inside;
+}
+
+div.absolute,h1{
+  position: absolute;
+  top:120px;
+  left:700px;
+}
+
+div.absolute,.job {
+	position: absolute;
+	right: 30px;
+	top: 180px;
+	left: 100px;
+}
+
+#skills{
+	padding: 50px;
+}
+
+#education {
+	padding: 50px;
+	background-color:#C1E1C1;
+}
+
+#experience{
+	padding: 50px;
+}
+
+
+
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: #355E3B;
+}
+
+/* mouse over link */
+a:hover {
+  color: #023020;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
